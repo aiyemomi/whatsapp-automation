@@ -1,0 +1,37 @@
+2022/10/30-00:40:05.311 92b0 Reusing MANIFEST C:\Users\RERE\Desktop\Web Development\Personal Projects\whatsapp automation\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/30-00:40:05.312 92b0 Recovering log #1035
+2022/10/30-00:40:05.674 92b0 Reusing old log C:\Users\RERE\Desktop\Web Development\Personal Projects\whatsapp automation\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001035.log 
+2022/10/30-00:40:31.008 7314 Level-0 table #1051: started
+2022/10/30-00:40:31.087 7314 Level-0 table #1051: 1258773 bytes OK
+2022/10/30-00:40:31.094 7314 Delete type=0 #1035
+2022/10/30-00:40:31.304 7314 Compacting 1@0 + 1@1 files
+2022/10/30-00:40:31.433 7314 Generated table #1052@0: 19235 keys, 520425 bytes
+2022/10/30-00:40:31.446 7314 Generated table #1053@0: 792 keys, 16704 bytes
+2022/10/30-00:40:31.446 7314 Compacted 1@0 + 1@1 files => 537129 bytes
+2022/10/30-00:40:31.450 7314 compacted to: files[ 0 2 17 0 0 0 0 ]
+2022/10/30-00:40:31.877 398 Compacting 1@1 + 10@2 files
+2022/10/30-00:40:32.244 398 Generated table #1054@1: 29671 keys, 2265915 bytes
+2022/10/30-00:40:32.606 398 Generated table #1055@1: 23685 keys, 2269139 bytes
+2022/10/30-00:40:33.124 398 Generated table #1056@1: 24717 keys, 2266804 bytes
+2022/10/30-00:40:33.564 398 Generated table #1057@1: 77277 keys, 2277263 bytes
+2022/10/30-00:40:33.737 398 Generated table #1058@1: 14964 keys, 2172283 bytes
+2022/10/30-00:40:33.793 398 Generated table #1059@1: 1089 keys, 2141897 bytes
+2022/10/30-00:40:33.866 398 Generated table #1060@1: 1945 keys, 2148708 bytes
+2022/10/30-00:40:34.029 398 Generated table #1061@1: 17128 keys, 2206171 bytes
+2022/10/30-00:40:34.291 398 Generated table #1062@1: 27128 keys, 2268239 bytes
+2022/10/30-00:40:34.334 398 Generated table #1063@1: 5254 keys, 427781 bytes
+2022/10/30-00:40:34.334 398 Compacted 1@1 + 10@2 files => 20444200 bytes
+2022/10/30-00:40:34.340 398 compacted to: files[ 0 1 17 0 0 0 0 ]
+2022/10/30-00:40:34.341 398 Delete type=2 #1038
+2022/10/30-00:40:34.341 398 Delete type=2 #1039
+2022/10/30-00:40:34.341 398 Delete type=2 #1040
+2022/10/30-00:40:34.341 398 Delete type=2 #1041
+2022/10/30-00:40:34.341 398 Delete type=2 #1042
+2022/10/30-00:40:34.341 398 Delete type=2 #1043
+2022/10/30-00:40:34.342 398 Delete type=2 #1044
+2022/10/30-00:40:34.342 398 Delete type=2 #1045
+2022/10/30-00:40:34.342 398 Delete type=2 #1046
+2022/10/30-00:40:34.342 398 Delete type=2 #1047
+2022/10/30-00:40:34.342 398 Delete type=2 #1048
+2022/10/30-00:40:34.342 398 Delete type=2 #1051
+2022/10/30-00:40:34.342 398 Delete type=2 #1052
