@@ -1,4 +1,3 @@
-// Boiler plate code to be able to both require and import modules
 import { createRequire } from "module";
 const require = createRequire(import.meta.url);
 const fs = require ('fs');
