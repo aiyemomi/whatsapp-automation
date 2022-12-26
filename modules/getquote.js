@@ -11,8 +11,6 @@ let loadQuote = ()=>{
 }
 export const quote = loadQuote()
 
-// const arrIndex = Math.floor(Math.random() * quote.length)
-
 const quoteOfDay = quote[numOfDays].quote
 
 export default quoteOfDay
